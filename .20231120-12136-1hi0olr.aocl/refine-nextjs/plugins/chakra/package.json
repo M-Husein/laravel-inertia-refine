@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "@refinedev/chakra-ui": "latest",
+        "@refinedev/react-hook-form": "latest",
+        "@refinedev/react-table": "latest",
+        "@tabler/icons": "^1.1.0",
+        "@chakra-ui/react": "^2.5.1"
+    }
+}
